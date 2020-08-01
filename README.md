@@ -11,10 +11,10 @@
 
 （仓库目录介绍）
 
-Sourcecode为FPGA源码 ；
+Sourcecode中为FPGA源码，其中sources_ADCin为外设输入ADC模块的虚拟示波器源码，sources_DAC2ADC为DAC输入ADC模块的虚拟示波器源码 ；
 
-wave_matlab为正弦波、三角波和矩形波的离散信号coe文件；
+wave_matlab中为正弦波、三角波和矩形波的离散信号coe文件；
 
-ExecutableFiles为可直接下载到板卡使用的bit流文件 ；
+ExecutableFiles中为可直接下载到板卡使用的bit流文件 ；
 
 images中为设计作品展示。
