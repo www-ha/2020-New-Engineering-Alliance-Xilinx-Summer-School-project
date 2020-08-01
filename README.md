@@ -11,14 +11,10 @@
 
 （仓库目录介绍）
 
-sources_ADCin为外设输入ADC模块的虚拟示波器源代码 ；
-
-sources_DAC2ADC为DAC模块传输模拟信号给ADC模块的虚拟示波器源代码 ；
+Sourcecode为FPGA源码 ；
 
 wave_matlab为正弦波、三角波和矩形波的离散信号coe文件；
 
-ADC_in.bit为外设输入ADC模块的可执行文件；
+ExecutableFiles为可直接下载到板卡使用的bit流文件 ；
 
-DAC2ADC.bit为DAC模块传输模拟信号给ADC模块的可执行文件；
-
-wave_1,wave_2,wave_3为设计作品展示。
+images中为设计作品展示。
